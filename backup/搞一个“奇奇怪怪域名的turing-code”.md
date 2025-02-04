@@ -37,7 +37,3 @@ hosts文件一般存储在 `C:\Windows\System32\drivers\etc` 中，如不在，�
 然后，你就可以用`a.b\`来访问turing-code了
 
 # 好了，你可以走了
-
-友链：
-1. #1
-2. #2
